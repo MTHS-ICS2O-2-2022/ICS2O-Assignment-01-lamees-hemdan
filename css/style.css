@@ -30,7 +30,7 @@
 
 .page-content {
   color: cornsilk;
-  font-family:fantasy;
+  font-family: fantasy;
   font-size: 4 rem;
   padding-left: 100 px;
 }
@@ -48,8 +48,8 @@ p {
   text-align: center;
 }
 
-p1 {
-  font-size:xx-large;
+h3 {
+  font-size: xx-large;
   font-family: fantasy;
   color: darkorange;
 }
